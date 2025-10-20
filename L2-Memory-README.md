@@ -79,6 +79,3 @@ from langchain.memory import (
     ConversationSummaryBufferMemory
 )
 ```
-
----
-*Note: These examples use deprecated imports. For production, migrate to current LangChain memory patterns.*

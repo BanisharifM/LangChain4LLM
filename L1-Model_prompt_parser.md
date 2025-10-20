@@ -149,6 +149,3 @@ response.content  # '{"gift": true, "days": 2}'  (string)
 output_dict  # {'gift': True, 'days': 2}  (dict)
 output_dict.get('gift')  # True (accessible!)
 ```
-
----
-*Note: Examples use updated imports for LangChain v0.1.0+. Update legacy imports accordingly.*
