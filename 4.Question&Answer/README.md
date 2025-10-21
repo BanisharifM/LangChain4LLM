@@ -102,6 +102,9 @@ response = qa_chain.run("List all shirts with sun protection")
 
 ---
 
+![Map Reduce](./image/chain-stuff.png)
+![Map Reduce](./image/chain-types.png)
+
 ## Quick Start (One-Liner)
 
 ```python
